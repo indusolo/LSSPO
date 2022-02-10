@@ -2,6 +2,7 @@
 Latent Space Structure Preserving Oversampling Technique- code and datasets
 
 Code and datasets information
+
 This folder contains 8 python notebook files with .ipynb extension, same programs in python script files with .py extension and 5 dataset files.
 
 - List of python notebook filenames
