@@ -31,16 +31,13 @@ This folder contains 8 python notebook files with .ipynb extension, same program
     - cs-training.csv (Kaggle GMSC)
 
 #### Experimental setup required to reproduce the results for wafer dataset
-- Wafer dataset
 - Google colab notebook with Intel(R) Xeon(R) CPU @ 2.20GHz with python version 3.7.12, 
 - numpy version 1.19.5, 
 - tensorflow version 2.7.0,
 - keras version 2.7.0,
 - sklearn version 1.0.2
 
-#### Experimental setup required to reproduce the results for the following datasets
-- German credit dataset , Australian credit dataset,Secom dataset, Kaggle GMSC dataset,
--  MNIST dataset, Fashion MNIST dataset
+#### Experimental setup required to reproduce the results for the remaining six datasets - German credit dataset , Australian credit dataset,Secom dataset, Kaggle GMSC dataset, MNIST dataset and Fashion MNIST dataset
 - AMD Ryzen 5 CPU @ 2.10GHz with python version 3.7.4, 
 - numpy version 1.19.5, 
 - tensorflow version 2.5.1, 
